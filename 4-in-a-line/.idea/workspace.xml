@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d541aa71-c4bf-488b-8980-7f18111a3e89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1648455589">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="24" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.34" value="2" />
+          <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.36" value="2" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.41" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="35001" />
+          <entry key="txt" value="681" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="35001" />
+          <entry key="PLAIN_TEXT" value="681" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="212542717">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.12" value="7" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="5" />
+          <entry key="project.open.time.15" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="115144" />
+          <entry key="txt" value="756" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="115144" />
+          <entry key="PLAIN_TEXT" value="756" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="129" column="33" selection-start-line="129" selection-start-column="33" selection-end-line="129" selection-end-column="33" />
+              <folding>
+                <element signature="method#main_menu#0;class#UI#0" />
+                <element signature="method#ask_piece_placement#0;class#UI#0" />
+                <element signature="method#ask_max_time#0;class#UI#0" />
+                <element signature="method#ask_first_player#0;class#UI#0" />
+                <element signature="method#get_valid_input#0;class#UI#0" />
+                <element signature="method#get_valid_input#1;class#UI#0" />
+                <element signature="method#get_valid_input#2;class#UI#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Board.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="638" column="8" selection-start-line="638" selection-start-column="8" selection-end-line="638" selection-end-column="8" />
+              <folding>
+                <element signature="e#314#468#0" />
+                <element signature="e#474#874#0" />
+                <element signature="e#879#1645#0" />
+                <element signature="e#1650#2996#0" />
+                <element signature="e#3001#4866#0" />
+                <element signature="e#4718#4751#0" />
+                <element signature="e#6195#6228#0" />
+                <element signature="e#4871#5141#0" />
+                <element signature="e#4906#4935#0" />
+                <element signature="e#5146#5867#0" />
+                <element signature="e#5872#5993#0" />
+                <element signature="e#5998#6788#0" />
+                <element signature="e#6793#7634#0" />
+                <element signature="e#7639#8554#0" />
+                <element signature="e#14151#15228#0" />
+                <element signature="e#14300#14375#0" />
+                <element signature="e#15233#16030#0" />
+                <element signature="e#17151#17596#0" />
+                <element signature="e#18675#19142#0" />
+                <element signature="e#19147#19583#0" />
+                <element signature="e#19588#20055#0" />
+                <element signature="e#20060#20345#0" />
+                <element signature="e#20350#20573#0" />
+                <element signature="e#20579#20979#0" />
+                <element signature="e#20984#21302#0" />
+                <element signature="e#22891#23098#0" />
+                <element signature="e#25786#29058#0" />
+                <element signature="e#29063#32375#0" />
+                <element signature="e#32380#34021#0" />
+                <element signature="e#34027#34833#0" />
+                <element signature="e#34838#35020#0" />
+                <element signature="e#35025#36062#0" />
+                <element signature="e#36067#36839#0" />
+                <element signature="e#35459#35618#0" />
+                <element signature="e#35623#35759#0" />
+                <element signature="e#35765#38501#0" />
+                <element signature="e#38506#39524#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pop</find>
+      <find>player_1_move</find>
+      <find>print_pair(int</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>poll</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main.java" />
+        <option value="$PROJECT_DIR$/src/Board.java" />
+        <option value="$PROJECT_DIR$/src/UI.java" />
+        <option value="$PROJECT_DIR$/src/Game.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="715" />
+    <option name="y" value="-4" />
+    <option name="width" value="651" />
+    <option name="height" value="736" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Project_3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544079282498" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="Project_3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d541aa71-c4bf-488b-8980-7f18111a3e89" name="Default Changelist" comment="" />
+      <created>1540234261921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540234261921</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Basic UI and Board Functions">
+      <created>1540242066868</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540242066868</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Basic UI and Board Functions Complete">
+      <created>1540244126993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540244126993</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created Game object">
+      <created>1540349498803</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540349498803</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Game Winning check created">
+      <created>1540350905698</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540350905698</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Cleaned up Board, Game, UI classes">
+      <created>1540362021463</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540362021463</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix Bug - User input player starts game">
+      <created>1540445263730</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540445263731</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Working on printing stack while printing board">
+      <created>1540452690607</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540452690607</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Printing collumns semi-working">
+      <created>1540486826636</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540486826636</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Printing complete!">
+      <created>1540491028457</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540491028457</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Bug Fix - minor error in printing">
+      <created>1540491318068</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540491318068</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Minor printing change">
+      <created>1540491676173</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540491676173</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Push before major overhual">
+      <created>1540757640436</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1540757640436</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Push before major overhual">
+      <created>1540825434180</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540825434180</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Successfully converted board 2d array to String">
+      <created>1540844516522</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1540844516522</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Finished last move and next move functions">
+      <created>1540866980865</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1540866980865</updated>
+    </task>
+    <task id="LOCAL-00016" summary="New version">
+      <created>1541303431000</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1541303431000</updated>
+    </task>
+    <task id="LOCAL-00017" summary="New version">
+      <created>1541308705383</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1541308705394</updated>
+    </task>
+    <task id="LOCAL-00018" summary="New version">
+      <created>1541984269340</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1541984269341</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Updated Board String, Next move function">
+      <created>1541991937098</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1541991937098</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Significant progress on minimax">
+      <created>1541998128871</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1541998128871</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Messing with win conditions">
+      <created>1542142378003</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1542142378003</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Cleaning up minimax">
+      <created>1542215104051</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1542215104051</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Exception Handling - Finished">
+      <created>1542245696971</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1542245696971</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Exception Handling - Finished">
+      <created>1542259982739</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1542259982739</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Fixed Bug: AI Random move every time">
+      <created>1542650755464</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1542650755464</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Fixed Bug: Vertical win check">
+      <created>1542652161011</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1542652161011</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Pushing before break">
+      <created>1542654730641</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1542654730641</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Semi-working Mini-max.">
+      <created>1542677411200</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1542677411200</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Improved Mini-max. Lacking player blocks">
+      <created>1542684327291</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1542684327291</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Bug: AI always chooses A1 first">
+      <created>1543348076002</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1543348076002</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Pushing from 11-28">
+      <created>1543433149991</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1543433149991</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Pushing from 11-29">
+      <created>1543620230608</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1543620230609</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Window function working">
+      <created>1543783410924</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1543783410924</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Cleaned up unused code">
+      <created>1543783582758</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1543783582758</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Utility working with rows">
+      <created>1543801649565</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1543801649565</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Almost working, AI not choosing correct next move">
+      <created>1543805960272</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1543805960272</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Almost working, AI not choosing correct next move">
+      <created>1543816015456</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1543816015456</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Almost working, AI not choosing correct next move">
+      <created>1543859482366</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1543859482367</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Push before eliminating board state">
+      <created>1543873355008</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1543873355008</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Trying to fix get successor function">
+      <created>1543943469558</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1543943469558</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Fixed the row_value accumulation bug. AI not making optimal moves">
+      <created>1543955357579</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1543955357580</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Fixed a lot of stuff. Current Bug: A8,A7,B8">
+      <created>1543967138356</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1543967138356</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Pushing, collumn window check not implemented yet">
+      <created>1543991883950</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1543991883951</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Fixed, opponent and computer issue">
+      <created>1544052223328</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1544052223328</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Fixed, opponent and computer issue">
+      <created>1544053315670</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1544053315670</updated>
+    </task>
+    <task id="LOCAL-00046" summary="First player bug fixed">
+      <created>1544053745936</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1544053745936</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Pushing what I have">
+      <created>1544065989459</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1544065989459</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49856323" visible="true" weight="0.14189644" />
+      <window_info id="Structure" order="1" sideWeight="0.50143677" side_tool="true" weight="0.134499" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32885906" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.029530201" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33020133" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32885906" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3261745" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Significant progress on minimax" />
+    <MESSAGE value="Messing with win conditions" />
+    <MESSAGE value="Cleaning up minimax" />
+    <MESSAGE value="Exception Handling - Finished" />
+    <MESSAGE value="Fixed Bug: AI Random move every time" />
+    <MESSAGE value="Fixed Bug: Vertical win check" />
+    <MESSAGE value="Pushing before break" />
+    <MESSAGE value="Semi-working Mini-max." />
+    <MESSAGE value="Improved Mini-max." />
+    <MESSAGE value="Improved Mini-max. Lacking player blocks" />
+    <MESSAGE value="Bug: AI always chooses A1 first" />
+    <MESSAGE value="Pushing from 11-28" />
+    <MESSAGE value="Pushing from 11-29" />
+    <MESSAGE value="Window function working" />
+    <MESSAGE value="Cleaned up unused code" />
+    <MESSAGE value="Utility working with rows" />
+    <MESSAGE value="Almost working, AI not choosing correct next move" />
+    <MESSAGE value="Push before eliminating board state" />
+    <MESSAGE value="Trying to fix get successor function" />
+    <MESSAGE value="Fixed the row_value accumulation bug. AI not making optimal moves" />
+    <MESSAGE value="Fixed a lot of stuff. Current Bug: A8,A7,B8" />
+    <MESSAGE value="Pushing, collumn window check not implemented yet" />
+    <MESSAGE value="Fixed, opponent and computer issue" />
+    <MESSAGE value="First player bug fixed" />
+    <MESSAGE value="Pushing what I have" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pushing what I have" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Game.java</url>
+          <line>364</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Game.java</url>
+          <line>505</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/Programs/jdk-10.0.2/lib/src.zip!/java.base/java/lang/String.java" />
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.1/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9480">
+          <caret line="692" selection-start-line="692" selection-end-line="692" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.1/lib/src.zip!/java.base/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53160">
+          <caret line="3613" selection-start-line="3613" selection-end-line="3613" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk-11.0.1/lib/src.zip!/java.base/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10455">
+          <caret line="745" selection-start-line="745" selection-end-line="745" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="129" column="33" selection-start-line="129" selection-start-column="33" selection-end-line="129" selection-end-column="33" />
+          <folding>
+            <element signature="method#main_menu#0;class#UI#0" />
+            <element signature="method#ask_piece_placement#0;class#UI#0" />
+            <element signature="method#ask_max_time#0;class#UI#0" />
+            <element signature="method#ask_first_player#0;class#UI#0" />
+            <element signature="method#get_valid_input#0;class#UI#0" />
+            <element signature="method#get_valid_input#1;class#UI#0" />
+            <element signature="method#get_valid_input#2;class#UI#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="638" column="8" selection-start-line="638" selection-start-column="8" selection-end-line="638" selection-end-column="8" />
+          <folding>
+            <element signature="e#314#468#0" />
+            <element signature="e#474#874#0" />
+            <element signature="e#879#1645#0" />
+            <element signature="e#1650#2996#0" />
+            <element signature="e#3001#4866#0" />
+            <element signature="e#4718#4751#0" />
+            <element signature="e#6195#6228#0" />
+            <element signature="e#4871#5141#0" />
+            <element signature="e#4906#4935#0" />
+            <element signature="e#5146#5867#0" />
+            <element signature="e#5872#5993#0" />
+            <element signature="e#5998#6788#0" />
+            <element signature="e#6793#7634#0" />
+            <element signature="e#7639#8554#0" />
+            <element signature="e#14151#15228#0" />
+            <element signature="e#14300#14375#0" />
+            <element signature="e#15233#16030#0" />
+            <element signature="e#17151#17596#0" />
+            <element signature="e#18675#19142#0" />
+            <element signature="e#19147#19583#0" />
+            <element signature="e#19588#20055#0" />
+            <element signature="e#20060#20345#0" />
+            <element signature="e#20350#20573#0" />
+            <element signature="e#20579#20979#0" />
+            <element signature="e#20984#21302#0" />
+            <element signature="e#22891#23098#0" />
+            <element signature="e#25786#29058#0" />
+            <element signature="e#29063#32375#0" />
+            <element signature="e#32380#34021#0" />
+            <element signature="e#34027#34833#0" />
+            <element signature="e#34838#35020#0" />
+            <element signature="e#35025#36062#0" />
+            <element signature="e#36067#36839#0" />
+            <element signature="e#35459#35618#0" />
+            <element signature="e#35623#35759#0" />
+            <element signature="e#35765#38501#0" />
+            <element signature="e#38506#39524#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Project_3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
